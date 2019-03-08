@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D40BF7</color>
+    <color name="colorPrimaryDark">#761E86</color>
+    <color name="colorAccent">#6632D5</color>
+    <color name="btn_color">#EB296E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="btn_color2">#713C3C</color>
+    <color name="tab_underline">#04052C</color>
+</resources>

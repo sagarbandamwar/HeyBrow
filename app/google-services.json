@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1051829995214",
+    "firebase_url": "https://heybrow-c0e3f.firebaseio.com",
+    "project_id": "heybrow-c0e3f",
+    "storage_bucket": "heybrow-c0e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051829995214:android:b0ff67157ec1e8ea",
+        "android_client_info": {
+          "package_name": "com.example.heybrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051829995214-6l2pkr2bdl63ugkjfua5nhbfbmtsi8n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heybrow",
+            "certificate_hash": "62c8d25d250808946007949ba465bff428545f0c"
+          }
+        },
+        {
+          "client_id": "1051829995214-crdi0e8nnvpvh161fvlhuir8dhr5qqff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEDb3D6TTtkp7a9ImhxbFxCSzjMdVkOiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051829995214-crdi0e8nnvpvh161fvlhuir8dhr5qqff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
